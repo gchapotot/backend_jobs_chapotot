@@ -8,3 +8,7 @@ We are expecting a link to a hosted application that enable us to:
 - consult shifts
 
 The application should be as simple as possible (for example, authentication is not expected).
+
+# Link
+
+Link to the hosted application (with Heroku): https://lifen-test-application.herokuapp.com/
